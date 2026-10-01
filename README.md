@@ -58,8 +58,6 @@ python 00_README/phase10_13_analysis_viz.py   # Komputasi statistik akhir dan re
 ---
 
 ## 👥 Authors
-
-**Kelompok 6** (Digital Forensics Semester 5 - 2026)
 * **Iqbal Rizky Maulana**
 * **Muhammad Rangga Nur Praditha**
 * **Gherry Alviart**
