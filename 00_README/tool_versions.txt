@@ -1,0 +1,17 @@
+# TOOL VERSIONS — DF06 Kelompok 6
+# Dicatat pada: 2026-10-01 01:29 WIB
+# Operator: Iqbal Rizky Maulana
+
+[Python]
+Version      : Python 3.13.7
+Path         : python
+pip version  : 25.2
+
+[Python Libraries]
+Pillow       : 12.0.0
+pandas       : 2.3.3
+matplotlib   : 3.10.7
+
+[ExifTool]
+Version      : 13.59
+Path         : exiftool

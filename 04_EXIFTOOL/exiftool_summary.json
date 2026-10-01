@@ -1,0 +1,106 @@
+{
+  "timestamp": "2026-10-01 10:55:48 WIB",
+  "tool": "ExifTool_13.59",
+  "total_records": 240,
+  "total_rows": 2160,
+  "overall_retention_rate": "0.0%",
+  "retained": 0,
+  "eligible": 2160,
+  "per_transformation": {
+    "convert_jpeg": {
+      "retained": 0,
+      "changed": 0,
+      "missing": 270,
+      "total": 270
+    },
+    "convert_png": {
+      "retained": 0,
+      "changed": 0,
+      "missing": 270,
+      "total": 270
+    },
+    "recompress_q50": {
+      "retained": 0,
+      "changed": 0,
+      "missing": 270,
+      "total": 270
+    },
+    "recompress_q75": {
+      "retained": 0,
+      "changed": 0,
+      "missing": 270,
+      "total": 270
+    },
+    "recompress_q95": {
+      "retained": 0,
+      "changed": 0,
+      "missing": 270,
+      "total": 270
+    },
+    "resize": {
+      "retained": 0,
+      "changed": 0,
+      "missing": 270,
+      "total": 270
+    },
+    "screenshot_like": {
+      "retained": 0,
+      "changed": 0,
+      "missing": 270,
+      "total": 270
+    },
+    "stripped": {
+      "retained": 0,
+      "changed": 0,
+      "missing": 270,
+      "total": 270
+    }
+  },
+  "per_tag": {
+    "DateTimeOriginal": {
+      "retained": 0,
+      "changed": 0,
+      "missing": 240
+    },
+    "Make": {
+      "retained": 0,
+      "changed": 0,
+      "missing": 240
+    },
+    "Model": {
+      "retained": 0,
+      "changed": 0,
+      "missing": 240
+    },
+    "Software": {
+      "retained": 0,
+      "changed": 0,
+      "missing": 240
+    },
+    "Artist": {
+      "retained": 0,
+      "changed": 0,
+      "missing": 240
+    },
+    "Copyright": {
+      "retained": 0,
+      "changed": 0,
+      "missing": 240
+    },
+    "UserComment": {
+      "retained": 0,
+      "changed": 0,
+      "missing": 240
+    },
+    "GPSLatitude": {
+      "retained": 0,
+      "changed": 0,
+      "missing": 240
+    },
+    "GPSLongitude": {
+      "retained": 0,
+      "changed": 0,
+      "missing": 240
+    }
+  }
+}

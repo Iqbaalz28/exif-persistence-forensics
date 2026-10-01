@@ -1,0 +1,37 @@
+{
+  "timestamp": "2026-10-01 10:57:11 WIB",
+  "tool": "Pillow_12.0.0",
+  "total_files": 240,
+  "total_rows": 2160,
+  "errors": 0,
+  "overall_retention_rate": "0.0%",
+  "retained": 0,
+  "eligible": 1980,
+  "per_transformation": {
+    "convert_jpeg": {
+      "missing": 270
+    },
+    "convert_png": {
+      "unsupported": 180,
+      "missing": 90
+    },
+    "recompress_q50": {
+      "missing": 270
+    },
+    "recompress_q75": {
+      "missing": 270
+    },
+    "recompress_q95": {
+      "missing": 270
+    },
+    "resize": {
+      "missing": 270
+    },
+    "screenshot_like": {
+      "missing": 270
+    },
+    "stripped": {
+      "missing": 270
+    }
+  }
+}

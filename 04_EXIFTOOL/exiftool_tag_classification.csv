@@ -1,0 +1,2161 @@
+transformation,filename,tag_name,expected_value,observed_value,status,tool
+convert_jpeg,IMG_01.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_jpeg,IMG_01.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_jpeg,IMG_01.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_jpeg,IMG_01.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_jpeg,IMG_01.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_01.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_jpeg,IMG_01.jpg,UserComment,IMG_01 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_01.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_01.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_02.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_jpeg,IMG_02.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_jpeg,IMG_02.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_jpeg,IMG_02.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_jpeg,IMG_02.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_02.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_jpeg,IMG_02.jpg,UserComment,IMG_02 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_02.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_02.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_03.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_jpeg,IMG_03.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_jpeg,IMG_03.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_jpeg,IMG_03.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_jpeg,IMG_03.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_03.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_jpeg,IMG_03.jpg,UserComment,IMG_03 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_03.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_03.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_04.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_jpeg,IMG_04.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_jpeg,IMG_04.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_jpeg,IMG_04.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_jpeg,IMG_04.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_04.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_jpeg,IMG_04.jpg,UserComment,IMG_04 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_04.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_04.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_05.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_jpeg,IMG_05.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_jpeg,IMG_05.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_jpeg,IMG_05.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_jpeg,IMG_05.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_05.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_jpeg,IMG_05.jpg,UserComment,IMG_05 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_05.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_05.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_06.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_jpeg,IMG_06.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_jpeg,IMG_06.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_jpeg,IMG_06.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_jpeg,IMG_06.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_06.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_jpeg,IMG_06.jpg,UserComment,IMG_06 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_06.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_06.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_07.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_jpeg,IMG_07.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_jpeg,IMG_07.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_jpeg,IMG_07.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_jpeg,IMG_07.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_07.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_jpeg,IMG_07.jpg,UserComment,IMG_07 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_07.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_07.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_08.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_jpeg,IMG_08.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_jpeg,IMG_08.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_jpeg,IMG_08.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_jpeg,IMG_08.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_08.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_jpeg,IMG_08.jpg,UserComment,IMG_08 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_08.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_08.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_09.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_jpeg,IMG_09.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_jpeg,IMG_09.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_jpeg,IMG_09.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_jpeg,IMG_09.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_09.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_jpeg,IMG_09.jpg,UserComment,IMG_09 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_09.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_09.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_10.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_jpeg,IMG_10.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_jpeg,IMG_10.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_jpeg,IMG_10.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_jpeg,IMG_10.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_10.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_jpeg,IMG_10.jpg,UserComment,IMG_10 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_10.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_10.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_11.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_jpeg,IMG_11.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_jpeg,IMG_11.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_jpeg,IMG_11.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_jpeg,IMG_11.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_11.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_jpeg,IMG_11.jpg,UserComment,IMG_11 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_11.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_11.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_12.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_jpeg,IMG_12.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_jpeg,IMG_12.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_jpeg,IMG_12.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_jpeg,IMG_12.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_12.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_jpeg,IMG_12.jpg,UserComment,IMG_12 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_12.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_12.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_13.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_jpeg,IMG_13.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_jpeg,IMG_13.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_jpeg,IMG_13.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_jpeg,IMG_13.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_13.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_jpeg,IMG_13.jpg,UserComment,IMG_13 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_13.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_13.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_14.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_jpeg,IMG_14.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_jpeg,IMG_14.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_jpeg,IMG_14.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_jpeg,IMG_14.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_14.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_jpeg,IMG_14.jpg,UserComment,IMG_14 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_14.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_14.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_15.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_jpeg,IMG_15.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_jpeg,IMG_15.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_jpeg,IMG_15.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_jpeg,IMG_15.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_15.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_jpeg,IMG_15.jpg,UserComment,IMG_15 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_15.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_15.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_16.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_jpeg,IMG_16.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_jpeg,IMG_16.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_jpeg,IMG_16.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_jpeg,IMG_16.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_16.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_jpeg,IMG_16.jpg,UserComment,IMG_16 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_16.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_16.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_17.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_jpeg,IMG_17.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_jpeg,IMG_17.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_jpeg,IMG_17.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_jpeg,IMG_17.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_17.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_jpeg,IMG_17.jpg,UserComment,IMG_17 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_17.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_17.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_18.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_jpeg,IMG_18.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_jpeg,IMG_18.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_jpeg,IMG_18.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_jpeg,IMG_18.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_18.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_jpeg,IMG_18.jpg,UserComment,IMG_18 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_18.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_18.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_19.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_jpeg,IMG_19.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_jpeg,IMG_19.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_jpeg,IMG_19.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_jpeg,IMG_19.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_19.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_jpeg,IMG_19.jpg,UserComment,IMG_19 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_19.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_19.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_20.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_jpeg,IMG_20.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_jpeg,IMG_20.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_jpeg,IMG_20.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_jpeg,IMG_20.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_20.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_jpeg,IMG_20.jpg,UserComment,IMG_20 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_20.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_20.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_21.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_jpeg,IMG_21.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_jpeg,IMG_21.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_jpeg,IMG_21.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_jpeg,IMG_21.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_21.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_jpeg,IMG_21.jpg,UserComment,IMG_21 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_21.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_21.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_22.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_jpeg,IMG_22.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_jpeg,IMG_22.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_jpeg,IMG_22.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_jpeg,IMG_22.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_22.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_jpeg,IMG_22.jpg,UserComment,IMG_22 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_22.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_22.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_23.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_jpeg,IMG_23.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_jpeg,IMG_23.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_jpeg,IMG_23.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_jpeg,IMG_23.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_23.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_jpeg,IMG_23.jpg,UserComment,IMG_23 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_23.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_23.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_24.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_jpeg,IMG_24.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_jpeg,IMG_24.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_jpeg,IMG_24.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_jpeg,IMG_24.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_24.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_jpeg,IMG_24.jpg,UserComment,IMG_24 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_24.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_24.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_25.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_jpeg,IMG_25.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_jpeg,IMG_25.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_jpeg,IMG_25.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_jpeg,IMG_25.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_25.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_jpeg,IMG_25.jpg,UserComment,IMG_25 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_25.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_25.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_26.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_jpeg,IMG_26.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_jpeg,IMG_26.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_jpeg,IMG_26.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_jpeg,IMG_26.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_26.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_jpeg,IMG_26.jpg,UserComment,IMG_26 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_26.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_26.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_27.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_jpeg,IMG_27.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_jpeg,IMG_27.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_jpeg,IMG_27.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_jpeg,IMG_27.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_27.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_jpeg,IMG_27.jpg,UserComment,IMG_27 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_27.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_27.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_28.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_jpeg,IMG_28.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_jpeg,IMG_28.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_jpeg,IMG_28.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_jpeg,IMG_28.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_28.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_jpeg,IMG_28.jpg,UserComment,IMG_28 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_28.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_28.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_29.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_jpeg,IMG_29.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_jpeg,IMG_29.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_jpeg,IMG_29.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_jpeg,IMG_29.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_29.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_jpeg,IMG_29.jpg,UserComment,IMG_29 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_29.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_29.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_30.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_jpeg,IMG_30.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_jpeg,IMG_30.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_jpeg,IMG_30.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_jpeg,IMG_30.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_30.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_jpeg,IMG_30.jpg,UserComment,IMG_30 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_jpeg,IMG_30.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_jpeg,IMG_30.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_01.png,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_png,IMG_01.png,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_png,IMG_01.png,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_png,IMG_01.png,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_png,IMG_01.png,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_png,IMG_01.png,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_png,IMG_01.png,UserComment,IMG_01 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_png,IMG_01.png,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_01.png,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_02.png,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_png,IMG_02.png,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_png,IMG_02.png,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_png,IMG_02.png,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_png,IMG_02.png,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_png,IMG_02.png,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_png,IMG_02.png,UserComment,IMG_02 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_png,IMG_02.png,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_02.png,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_03.png,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_png,IMG_03.png,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_png,IMG_03.png,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_png,IMG_03.png,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_png,IMG_03.png,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_png,IMG_03.png,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_png,IMG_03.png,UserComment,IMG_03 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_png,IMG_03.png,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_03.png,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_04.png,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_png,IMG_04.png,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_png,IMG_04.png,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_png,IMG_04.png,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_png,IMG_04.png,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_png,IMG_04.png,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_png,IMG_04.png,UserComment,IMG_04 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_png,IMG_04.png,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_04.png,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_05.png,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_png,IMG_05.png,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_png,IMG_05.png,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_png,IMG_05.png,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_png,IMG_05.png,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_png,IMG_05.png,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_png,IMG_05.png,UserComment,IMG_05 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_png,IMG_05.png,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_05.png,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_06.png,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_png,IMG_06.png,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_png,IMG_06.png,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_png,IMG_06.png,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_png,IMG_06.png,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_png,IMG_06.png,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_png,IMG_06.png,UserComment,IMG_06 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_png,IMG_06.png,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_06.png,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_07.png,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_png,IMG_07.png,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_png,IMG_07.png,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_png,IMG_07.png,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_png,IMG_07.png,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_png,IMG_07.png,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_png,IMG_07.png,UserComment,IMG_07 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_png,IMG_07.png,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_07.png,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_08.png,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_png,IMG_08.png,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_png,IMG_08.png,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_png,IMG_08.png,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_png,IMG_08.png,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_png,IMG_08.png,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_png,IMG_08.png,UserComment,IMG_08 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_png,IMG_08.png,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_08.png,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_09.png,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_png,IMG_09.png,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_png,IMG_09.png,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_png,IMG_09.png,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_png,IMG_09.png,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_png,IMG_09.png,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_png,IMG_09.png,UserComment,IMG_09 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_png,IMG_09.png,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_09.png,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_10.png,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_png,IMG_10.png,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_png,IMG_10.png,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_png,IMG_10.png,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_png,IMG_10.png,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_png,IMG_10.png,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_png,IMG_10.png,UserComment,IMG_10 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_png,IMG_10.png,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_10.png,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_11.png,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_png,IMG_11.png,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_png,IMG_11.png,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_png,IMG_11.png,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_png,IMG_11.png,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_png,IMG_11.png,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_png,IMG_11.png,UserComment,IMG_11 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_png,IMG_11.png,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_11.png,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_12.png,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_png,IMG_12.png,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_png,IMG_12.png,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_png,IMG_12.png,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_png,IMG_12.png,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_png,IMG_12.png,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_png,IMG_12.png,UserComment,IMG_12 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_png,IMG_12.png,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_12.png,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_13.png,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_png,IMG_13.png,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_png,IMG_13.png,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_png,IMG_13.png,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_png,IMG_13.png,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_png,IMG_13.png,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_png,IMG_13.png,UserComment,IMG_13 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_png,IMG_13.png,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_13.png,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_14.png,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_png,IMG_14.png,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_png,IMG_14.png,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_png,IMG_14.png,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_png,IMG_14.png,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_png,IMG_14.png,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_png,IMG_14.png,UserComment,IMG_14 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_png,IMG_14.png,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_14.png,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_15.png,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_png,IMG_15.png,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_png,IMG_15.png,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_png,IMG_15.png,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_png,IMG_15.png,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_png,IMG_15.png,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_png,IMG_15.png,UserComment,IMG_15 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_png,IMG_15.png,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_15.png,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_16.png,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_png,IMG_16.png,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_png,IMG_16.png,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_png,IMG_16.png,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_png,IMG_16.png,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_png,IMG_16.png,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_png,IMG_16.png,UserComment,IMG_16 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_png,IMG_16.png,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_16.png,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_17.png,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_png,IMG_17.png,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_png,IMG_17.png,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_png,IMG_17.png,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_png,IMG_17.png,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_png,IMG_17.png,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_png,IMG_17.png,UserComment,IMG_17 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_png,IMG_17.png,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_17.png,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_18.png,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_png,IMG_18.png,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_png,IMG_18.png,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_png,IMG_18.png,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_png,IMG_18.png,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_png,IMG_18.png,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_png,IMG_18.png,UserComment,IMG_18 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_png,IMG_18.png,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_18.png,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_19.png,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_png,IMG_19.png,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_png,IMG_19.png,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_png,IMG_19.png,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_png,IMG_19.png,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_png,IMG_19.png,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_png,IMG_19.png,UserComment,IMG_19 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_png,IMG_19.png,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_19.png,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_20.png,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_png,IMG_20.png,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_png,IMG_20.png,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_png,IMG_20.png,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_png,IMG_20.png,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_png,IMG_20.png,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_png,IMG_20.png,UserComment,IMG_20 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_png,IMG_20.png,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_20.png,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_21.png,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_png,IMG_21.png,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_png,IMG_21.png,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_png,IMG_21.png,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_png,IMG_21.png,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_png,IMG_21.png,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_png,IMG_21.png,UserComment,IMG_21 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_png,IMG_21.png,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_21.png,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_22.png,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_png,IMG_22.png,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_png,IMG_22.png,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_png,IMG_22.png,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_png,IMG_22.png,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_png,IMG_22.png,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_png,IMG_22.png,UserComment,IMG_22 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_png,IMG_22.png,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_22.png,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_23.png,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_png,IMG_23.png,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_png,IMG_23.png,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_png,IMG_23.png,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_png,IMG_23.png,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_png,IMG_23.png,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_png,IMG_23.png,UserComment,IMG_23 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_png,IMG_23.png,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_23.png,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_24.png,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_png,IMG_24.png,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_png,IMG_24.png,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_png,IMG_24.png,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_png,IMG_24.png,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_png,IMG_24.png,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_png,IMG_24.png,UserComment,IMG_24 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_png,IMG_24.png,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_24.png,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_25.png,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_png,IMG_25.png,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_png,IMG_25.png,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_png,IMG_25.png,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_png,IMG_25.png,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_png,IMG_25.png,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_png,IMG_25.png,UserComment,IMG_25 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_png,IMG_25.png,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_25.png,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_26.png,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_png,IMG_26.png,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_png,IMG_26.png,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_png,IMG_26.png,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_png,IMG_26.png,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_png,IMG_26.png,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_png,IMG_26.png,UserComment,IMG_26 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_png,IMG_26.png,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_26.png,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_27.png,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_png,IMG_27.png,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_png,IMG_27.png,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_png,IMG_27.png,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_png,IMG_27.png,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_png,IMG_27.png,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_png,IMG_27.png,UserComment,IMG_27 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_png,IMG_27.png,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_27.png,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_28.png,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_png,IMG_28.png,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_png,IMG_28.png,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_png,IMG_28.png,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_png,IMG_28.png,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_png,IMG_28.png,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_png,IMG_28.png,UserComment,IMG_28 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_png,IMG_28.png,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_28.png,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_29.png,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_png,IMG_29.png,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_png,IMG_29.png,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_png,IMG_29.png,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_png,IMG_29.png,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_png,IMG_29.png,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_png,IMG_29.png,UserComment,IMG_29 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_png,IMG_29.png,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_29.png,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_30.png,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+convert_png,IMG_30.png,Make,DF06-LAB,,missing,ExifTool_13.59
+convert_png,IMG_30.png,Model,SyntheticCam-1,,missing,ExifTool_13.59
+convert_png,IMG_30.png,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+convert_png,IMG_30.png,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+convert_png,IMG_30.png,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+convert_png,IMG_30.png,UserComment,IMG_30 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+convert_png,IMG_30.png,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+convert_png,IMG_30.png,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_01.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q50,IMG_01.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q50,IMG_01.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q50,IMG_01.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q50,IMG_01.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_01.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q50,IMG_01.jpg,UserComment,IMG_01 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_01.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_01.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_02.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q50,IMG_02.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q50,IMG_02.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q50,IMG_02.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q50,IMG_02.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_02.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q50,IMG_02.jpg,UserComment,IMG_02 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_02.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_02.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_03.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q50,IMG_03.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q50,IMG_03.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q50,IMG_03.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q50,IMG_03.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_03.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q50,IMG_03.jpg,UserComment,IMG_03 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_03.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_03.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_04.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q50,IMG_04.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q50,IMG_04.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q50,IMG_04.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q50,IMG_04.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_04.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q50,IMG_04.jpg,UserComment,IMG_04 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_04.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_04.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_05.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q50,IMG_05.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q50,IMG_05.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q50,IMG_05.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q50,IMG_05.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_05.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q50,IMG_05.jpg,UserComment,IMG_05 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_05.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_05.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_06.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q50,IMG_06.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q50,IMG_06.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q50,IMG_06.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q50,IMG_06.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_06.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q50,IMG_06.jpg,UserComment,IMG_06 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_06.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_06.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_07.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q50,IMG_07.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q50,IMG_07.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q50,IMG_07.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q50,IMG_07.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_07.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q50,IMG_07.jpg,UserComment,IMG_07 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_07.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_07.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_08.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q50,IMG_08.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q50,IMG_08.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q50,IMG_08.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q50,IMG_08.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_08.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q50,IMG_08.jpg,UserComment,IMG_08 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_08.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_08.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_09.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q50,IMG_09.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q50,IMG_09.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q50,IMG_09.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q50,IMG_09.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_09.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q50,IMG_09.jpg,UserComment,IMG_09 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_09.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_09.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_10.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q50,IMG_10.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q50,IMG_10.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q50,IMG_10.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q50,IMG_10.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_10.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q50,IMG_10.jpg,UserComment,IMG_10 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_10.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_10.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_11.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q50,IMG_11.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q50,IMG_11.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q50,IMG_11.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q50,IMG_11.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_11.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q50,IMG_11.jpg,UserComment,IMG_11 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_11.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_11.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_12.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q50,IMG_12.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q50,IMG_12.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q50,IMG_12.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q50,IMG_12.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_12.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q50,IMG_12.jpg,UserComment,IMG_12 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_12.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_12.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_13.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q50,IMG_13.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q50,IMG_13.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q50,IMG_13.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q50,IMG_13.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_13.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q50,IMG_13.jpg,UserComment,IMG_13 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_13.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_13.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_14.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q50,IMG_14.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q50,IMG_14.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q50,IMG_14.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q50,IMG_14.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_14.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q50,IMG_14.jpg,UserComment,IMG_14 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_14.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_14.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_15.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q50,IMG_15.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q50,IMG_15.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q50,IMG_15.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q50,IMG_15.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_15.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q50,IMG_15.jpg,UserComment,IMG_15 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_15.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_15.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_16.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q50,IMG_16.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q50,IMG_16.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q50,IMG_16.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q50,IMG_16.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_16.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q50,IMG_16.jpg,UserComment,IMG_16 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_16.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_16.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_17.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q50,IMG_17.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q50,IMG_17.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q50,IMG_17.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q50,IMG_17.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_17.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q50,IMG_17.jpg,UserComment,IMG_17 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_17.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_17.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_18.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q50,IMG_18.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q50,IMG_18.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q50,IMG_18.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q50,IMG_18.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_18.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q50,IMG_18.jpg,UserComment,IMG_18 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_18.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_18.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_19.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q50,IMG_19.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q50,IMG_19.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q50,IMG_19.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q50,IMG_19.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_19.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q50,IMG_19.jpg,UserComment,IMG_19 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_19.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_19.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_20.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q50,IMG_20.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q50,IMG_20.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q50,IMG_20.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q50,IMG_20.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_20.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q50,IMG_20.jpg,UserComment,IMG_20 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_20.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_20.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_21.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q50,IMG_21.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q50,IMG_21.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q50,IMG_21.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q50,IMG_21.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_21.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q50,IMG_21.jpg,UserComment,IMG_21 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_21.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_21.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_22.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q50,IMG_22.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q50,IMG_22.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q50,IMG_22.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q50,IMG_22.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_22.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q50,IMG_22.jpg,UserComment,IMG_22 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_22.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_22.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_23.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q50,IMG_23.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q50,IMG_23.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q50,IMG_23.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q50,IMG_23.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_23.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q50,IMG_23.jpg,UserComment,IMG_23 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_23.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_23.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_24.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q50,IMG_24.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q50,IMG_24.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q50,IMG_24.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q50,IMG_24.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_24.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q50,IMG_24.jpg,UserComment,IMG_24 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_24.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_24.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_25.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q50,IMG_25.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q50,IMG_25.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q50,IMG_25.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q50,IMG_25.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_25.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q50,IMG_25.jpg,UserComment,IMG_25 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_25.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_25.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_26.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q50,IMG_26.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q50,IMG_26.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q50,IMG_26.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q50,IMG_26.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_26.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q50,IMG_26.jpg,UserComment,IMG_26 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_26.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_26.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_27.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q50,IMG_27.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q50,IMG_27.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q50,IMG_27.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q50,IMG_27.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_27.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q50,IMG_27.jpg,UserComment,IMG_27 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_27.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_27.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_28.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q50,IMG_28.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q50,IMG_28.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q50,IMG_28.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q50,IMG_28.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_28.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q50,IMG_28.jpg,UserComment,IMG_28 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_28.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_28.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_29.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q50,IMG_29.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q50,IMG_29.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q50,IMG_29.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q50,IMG_29.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_29.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q50,IMG_29.jpg,UserComment,IMG_29 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_29.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_29.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_30.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q50,IMG_30.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q50,IMG_30.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q50,IMG_30.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q50,IMG_30.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_30.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q50,IMG_30.jpg,UserComment,IMG_30 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q50,IMG_30.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q50,IMG_30.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_01.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q75,IMG_01.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q75,IMG_01.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q75,IMG_01.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q75,IMG_01.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_01.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q75,IMG_01.jpg,UserComment,IMG_01 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_01.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_01.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_02.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q75,IMG_02.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q75,IMG_02.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q75,IMG_02.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q75,IMG_02.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_02.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q75,IMG_02.jpg,UserComment,IMG_02 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_02.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_02.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_03.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q75,IMG_03.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q75,IMG_03.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q75,IMG_03.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q75,IMG_03.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_03.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q75,IMG_03.jpg,UserComment,IMG_03 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_03.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_03.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_04.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q75,IMG_04.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q75,IMG_04.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q75,IMG_04.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q75,IMG_04.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_04.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q75,IMG_04.jpg,UserComment,IMG_04 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_04.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_04.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_05.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q75,IMG_05.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q75,IMG_05.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q75,IMG_05.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q75,IMG_05.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_05.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q75,IMG_05.jpg,UserComment,IMG_05 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_05.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_05.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_06.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q75,IMG_06.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q75,IMG_06.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q75,IMG_06.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q75,IMG_06.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_06.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q75,IMG_06.jpg,UserComment,IMG_06 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_06.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_06.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_07.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q75,IMG_07.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q75,IMG_07.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q75,IMG_07.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q75,IMG_07.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_07.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q75,IMG_07.jpg,UserComment,IMG_07 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_07.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_07.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_08.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q75,IMG_08.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q75,IMG_08.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q75,IMG_08.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q75,IMG_08.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_08.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q75,IMG_08.jpg,UserComment,IMG_08 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_08.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_08.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_09.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q75,IMG_09.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q75,IMG_09.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q75,IMG_09.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q75,IMG_09.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_09.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q75,IMG_09.jpg,UserComment,IMG_09 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_09.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_09.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_10.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q75,IMG_10.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q75,IMG_10.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q75,IMG_10.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q75,IMG_10.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_10.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q75,IMG_10.jpg,UserComment,IMG_10 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_10.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_10.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_11.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q75,IMG_11.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q75,IMG_11.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q75,IMG_11.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q75,IMG_11.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_11.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q75,IMG_11.jpg,UserComment,IMG_11 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_11.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_11.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_12.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q75,IMG_12.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q75,IMG_12.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q75,IMG_12.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q75,IMG_12.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_12.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q75,IMG_12.jpg,UserComment,IMG_12 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_12.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_12.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_13.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q75,IMG_13.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q75,IMG_13.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q75,IMG_13.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q75,IMG_13.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_13.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q75,IMG_13.jpg,UserComment,IMG_13 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_13.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_13.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_14.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q75,IMG_14.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q75,IMG_14.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q75,IMG_14.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q75,IMG_14.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_14.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q75,IMG_14.jpg,UserComment,IMG_14 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_14.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_14.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_15.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q75,IMG_15.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q75,IMG_15.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q75,IMG_15.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q75,IMG_15.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_15.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q75,IMG_15.jpg,UserComment,IMG_15 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_15.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_15.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_16.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q75,IMG_16.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q75,IMG_16.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q75,IMG_16.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q75,IMG_16.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_16.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q75,IMG_16.jpg,UserComment,IMG_16 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_16.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_16.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_17.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q75,IMG_17.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q75,IMG_17.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q75,IMG_17.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q75,IMG_17.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_17.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q75,IMG_17.jpg,UserComment,IMG_17 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_17.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_17.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_18.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q75,IMG_18.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q75,IMG_18.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q75,IMG_18.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q75,IMG_18.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_18.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q75,IMG_18.jpg,UserComment,IMG_18 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_18.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_18.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_19.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q75,IMG_19.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q75,IMG_19.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q75,IMG_19.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q75,IMG_19.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_19.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q75,IMG_19.jpg,UserComment,IMG_19 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_19.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_19.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_20.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q75,IMG_20.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q75,IMG_20.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q75,IMG_20.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q75,IMG_20.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_20.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q75,IMG_20.jpg,UserComment,IMG_20 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_20.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_20.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_21.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q75,IMG_21.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q75,IMG_21.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q75,IMG_21.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q75,IMG_21.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_21.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q75,IMG_21.jpg,UserComment,IMG_21 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_21.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_21.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_22.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q75,IMG_22.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q75,IMG_22.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q75,IMG_22.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q75,IMG_22.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_22.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q75,IMG_22.jpg,UserComment,IMG_22 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_22.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_22.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_23.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q75,IMG_23.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q75,IMG_23.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q75,IMG_23.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q75,IMG_23.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_23.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q75,IMG_23.jpg,UserComment,IMG_23 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_23.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_23.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_24.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q75,IMG_24.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q75,IMG_24.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q75,IMG_24.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q75,IMG_24.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_24.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q75,IMG_24.jpg,UserComment,IMG_24 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_24.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_24.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_25.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q75,IMG_25.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q75,IMG_25.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q75,IMG_25.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q75,IMG_25.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_25.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q75,IMG_25.jpg,UserComment,IMG_25 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_25.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_25.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_26.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q75,IMG_26.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q75,IMG_26.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q75,IMG_26.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q75,IMG_26.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_26.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q75,IMG_26.jpg,UserComment,IMG_26 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_26.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_26.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_27.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q75,IMG_27.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q75,IMG_27.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q75,IMG_27.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q75,IMG_27.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_27.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q75,IMG_27.jpg,UserComment,IMG_27 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_27.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_27.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_28.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q75,IMG_28.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q75,IMG_28.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q75,IMG_28.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q75,IMG_28.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_28.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q75,IMG_28.jpg,UserComment,IMG_28 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_28.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_28.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_29.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q75,IMG_29.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q75,IMG_29.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q75,IMG_29.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q75,IMG_29.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_29.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q75,IMG_29.jpg,UserComment,IMG_29 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_29.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_29.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_30.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q75,IMG_30.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q75,IMG_30.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q75,IMG_30.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q75,IMG_30.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_30.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q75,IMG_30.jpg,UserComment,IMG_30 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q75,IMG_30.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q75,IMG_30.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_01.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q95,IMG_01.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q95,IMG_01.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q95,IMG_01.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q95,IMG_01.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_01.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q95,IMG_01.jpg,UserComment,IMG_01 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_01.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_01.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_02.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q95,IMG_02.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q95,IMG_02.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q95,IMG_02.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q95,IMG_02.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_02.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q95,IMG_02.jpg,UserComment,IMG_02 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_02.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_02.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_03.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q95,IMG_03.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q95,IMG_03.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q95,IMG_03.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q95,IMG_03.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_03.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q95,IMG_03.jpg,UserComment,IMG_03 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_03.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_03.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_04.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q95,IMG_04.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q95,IMG_04.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q95,IMG_04.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q95,IMG_04.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_04.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q95,IMG_04.jpg,UserComment,IMG_04 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_04.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_04.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_05.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q95,IMG_05.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q95,IMG_05.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q95,IMG_05.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q95,IMG_05.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_05.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q95,IMG_05.jpg,UserComment,IMG_05 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_05.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_05.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_06.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q95,IMG_06.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q95,IMG_06.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q95,IMG_06.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q95,IMG_06.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_06.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q95,IMG_06.jpg,UserComment,IMG_06 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_06.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_06.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_07.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q95,IMG_07.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q95,IMG_07.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q95,IMG_07.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q95,IMG_07.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_07.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q95,IMG_07.jpg,UserComment,IMG_07 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_07.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_07.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_08.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q95,IMG_08.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q95,IMG_08.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q95,IMG_08.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q95,IMG_08.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_08.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q95,IMG_08.jpg,UserComment,IMG_08 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_08.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_08.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_09.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q95,IMG_09.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q95,IMG_09.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q95,IMG_09.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q95,IMG_09.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_09.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q95,IMG_09.jpg,UserComment,IMG_09 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_09.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_09.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_10.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q95,IMG_10.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q95,IMG_10.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q95,IMG_10.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q95,IMG_10.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_10.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q95,IMG_10.jpg,UserComment,IMG_10 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_10.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_10.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_11.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q95,IMG_11.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q95,IMG_11.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q95,IMG_11.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q95,IMG_11.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_11.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q95,IMG_11.jpg,UserComment,IMG_11 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_11.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_11.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_12.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q95,IMG_12.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q95,IMG_12.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q95,IMG_12.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q95,IMG_12.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_12.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q95,IMG_12.jpg,UserComment,IMG_12 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_12.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_12.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_13.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q95,IMG_13.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q95,IMG_13.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q95,IMG_13.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q95,IMG_13.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_13.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q95,IMG_13.jpg,UserComment,IMG_13 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_13.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_13.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_14.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q95,IMG_14.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q95,IMG_14.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q95,IMG_14.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q95,IMG_14.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_14.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q95,IMG_14.jpg,UserComment,IMG_14 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_14.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_14.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_15.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q95,IMG_15.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q95,IMG_15.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q95,IMG_15.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q95,IMG_15.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_15.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q95,IMG_15.jpg,UserComment,IMG_15 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_15.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_15.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_16.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q95,IMG_16.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q95,IMG_16.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q95,IMG_16.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q95,IMG_16.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_16.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q95,IMG_16.jpg,UserComment,IMG_16 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_16.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_16.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_17.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q95,IMG_17.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q95,IMG_17.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q95,IMG_17.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q95,IMG_17.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_17.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q95,IMG_17.jpg,UserComment,IMG_17 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_17.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_17.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_18.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q95,IMG_18.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q95,IMG_18.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q95,IMG_18.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q95,IMG_18.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_18.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q95,IMG_18.jpg,UserComment,IMG_18 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_18.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_18.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_19.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q95,IMG_19.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q95,IMG_19.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q95,IMG_19.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q95,IMG_19.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_19.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q95,IMG_19.jpg,UserComment,IMG_19 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_19.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_19.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_20.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q95,IMG_20.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q95,IMG_20.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q95,IMG_20.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q95,IMG_20.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_20.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q95,IMG_20.jpg,UserComment,IMG_20 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_20.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_20.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_21.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q95,IMG_21.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q95,IMG_21.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q95,IMG_21.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q95,IMG_21.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_21.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q95,IMG_21.jpg,UserComment,IMG_21 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_21.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_21.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_22.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q95,IMG_22.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q95,IMG_22.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q95,IMG_22.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q95,IMG_22.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_22.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q95,IMG_22.jpg,UserComment,IMG_22 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_22.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_22.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_23.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q95,IMG_23.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q95,IMG_23.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q95,IMG_23.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q95,IMG_23.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_23.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q95,IMG_23.jpg,UserComment,IMG_23 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_23.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_23.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_24.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q95,IMG_24.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q95,IMG_24.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q95,IMG_24.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q95,IMG_24.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_24.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q95,IMG_24.jpg,UserComment,IMG_24 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_24.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_24.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_25.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q95,IMG_25.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q95,IMG_25.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q95,IMG_25.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q95,IMG_25.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_25.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q95,IMG_25.jpg,UserComment,IMG_25 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_25.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_25.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_26.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q95,IMG_26.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q95,IMG_26.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q95,IMG_26.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q95,IMG_26.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_26.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q95,IMG_26.jpg,UserComment,IMG_26 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_26.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_26.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_27.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q95,IMG_27.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q95,IMG_27.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q95,IMG_27.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q95,IMG_27.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_27.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q95,IMG_27.jpg,UserComment,IMG_27 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_27.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_27.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_28.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q95,IMG_28.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q95,IMG_28.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q95,IMG_28.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q95,IMG_28.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_28.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q95,IMG_28.jpg,UserComment,IMG_28 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_28.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_28.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_29.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q95,IMG_29.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q95,IMG_29.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q95,IMG_29.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q95,IMG_29.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_29.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q95,IMG_29.jpg,UserComment,IMG_29 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_29.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_29.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_30.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+recompress_q95,IMG_30.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+recompress_q95,IMG_30.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+recompress_q95,IMG_30.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+recompress_q95,IMG_30.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_30.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+recompress_q95,IMG_30.jpg,UserComment,IMG_30 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+recompress_q95,IMG_30.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+recompress_q95,IMG_30.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_01.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+resize,IMG_01.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+resize,IMG_01.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+resize,IMG_01.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+resize,IMG_01.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+resize,IMG_01.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+resize,IMG_01.jpg,UserComment,IMG_01 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+resize,IMG_01.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_01.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_02.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+resize,IMG_02.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+resize,IMG_02.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+resize,IMG_02.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+resize,IMG_02.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+resize,IMG_02.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+resize,IMG_02.jpg,UserComment,IMG_02 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+resize,IMG_02.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_02.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_03.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+resize,IMG_03.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+resize,IMG_03.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+resize,IMG_03.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+resize,IMG_03.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+resize,IMG_03.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+resize,IMG_03.jpg,UserComment,IMG_03 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+resize,IMG_03.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_03.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_04.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+resize,IMG_04.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+resize,IMG_04.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+resize,IMG_04.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+resize,IMG_04.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+resize,IMG_04.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+resize,IMG_04.jpg,UserComment,IMG_04 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+resize,IMG_04.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_04.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_05.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+resize,IMG_05.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+resize,IMG_05.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+resize,IMG_05.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+resize,IMG_05.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+resize,IMG_05.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+resize,IMG_05.jpg,UserComment,IMG_05 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+resize,IMG_05.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_05.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_06.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+resize,IMG_06.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+resize,IMG_06.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+resize,IMG_06.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+resize,IMG_06.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+resize,IMG_06.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+resize,IMG_06.jpg,UserComment,IMG_06 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+resize,IMG_06.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_06.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_07.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+resize,IMG_07.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+resize,IMG_07.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+resize,IMG_07.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+resize,IMG_07.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+resize,IMG_07.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+resize,IMG_07.jpg,UserComment,IMG_07 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+resize,IMG_07.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_07.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_08.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+resize,IMG_08.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+resize,IMG_08.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+resize,IMG_08.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+resize,IMG_08.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+resize,IMG_08.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+resize,IMG_08.jpg,UserComment,IMG_08 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+resize,IMG_08.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_08.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_09.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+resize,IMG_09.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+resize,IMG_09.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+resize,IMG_09.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+resize,IMG_09.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+resize,IMG_09.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+resize,IMG_09.jpg,UserComment,IMG_09 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+resize,IMG_09.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_09.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_10.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+resize,IMG_10.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+resize,IMG_10.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+resize,IMG_10.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+resize,IMG_10.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+resize,IMG_10.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+resize,IMG_10.jpg,UserComment,IMG_10 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+resize,IMG_10.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_10.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_11.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+resize,IMG_11.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+resize,IMG_11.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+resize,IMG_11.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+resize,IMG_11.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+resize,IMG_11.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+resize,IMG_11.jpg,UserComment,IMG_11 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+resize,IMG_11.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_11.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_12.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+resize,IMG_12.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+resize,IMG_12.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+resize,IMG_12.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+resize,IMG_12.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+resize,IMG_12.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+resize,IMG_12.jpg,UserComment,IMG_12 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+resize,IMG_12.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_12.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_13.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+resize,IMG_13.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+resize,IMG_13.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+resize,IMG_13.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+resize,IMG_13.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+resize,IMG_13.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+resize,IMG_13.jpg,UserComment,IMG_13 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+resize,IMG_13.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_13.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_14.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+resize,IMG_14.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+resize,IMG_14.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+resize,IMG_14.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+resize,IMG_14.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+resize,IMG_14.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+resize,IMG_14.jpg,UserComment,IMG_14 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+resize,IMG_14.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_14.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_15.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+resize,IMG_15.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+resize,IMG_15.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+resize,IMG_15.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+resize,IMG_15.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+resize,IMG_15.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+resize,IMG_15.jpg,UserComment,IMG_15 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+resize,IMG_15.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_15.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_16.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+resize,IMG_16.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+resize,IMG_16.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+resize,IMG_16.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+resize,IMG_16.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+resize,IMG_16.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+resize,IMG_16.jpg,UserComment,IMG_16 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+resize,IMG_16.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_16.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_17.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+resize,IMG_17.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+resize,IMG_17.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+resize,IMG_17.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+resize,IMG_17.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+resize,IMG_17.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+resize,IMG_17.jpg,UserComment,IMG_17 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+resize,IMG_17.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_17.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_18.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+resize,IMG_18.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+resize,IMG_18.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+resize,IMG_18.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+resize,IMG_18.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+resize,IMG_18.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+resize,IMG_18.jpg,UserComment,IMG_18 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+resize,IMG_18.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_18.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_19.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+resize,IMG_19.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+resize,IMG_19.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+resize,IMG_19.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+resize,IMG_19.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+resize,IMG_19.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+resize,IMG_19.jpg,UserComment,IMG_19 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+resize,IMG_19.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_19.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_20.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+resize,IMG_20.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+resize,IMG_20.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+resize,IMG_20.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+resize,IMG_20.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+resize,IMG_20.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+resize,IMG_20.jpg,UserComment,IMG_20 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+resize,IMG_20.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_20.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_21.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+resize,IMG_21.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+resize,IMG_21.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+resize,IMG_21.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+resize,IMG_21.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+resize,IMG_21.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+resize,IMG_21.jpg,UserComment,IMG_21 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+resize,IMG_21.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_21.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_22.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+resize,IMG_22.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+resize,IMG_22.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+resize,IMG_22.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+resize,IMG_22.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+resize,IMG_22.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+resize,IMG_22.jpg,UserComment,IMG_22 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+resize,IMG_22.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_22.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_23.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+resize,IMG_23.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+resize,IMG_23.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+resize,IMG_23.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+resize,IMG_23.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+resize,IMG_23.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+resize,IMG_23.jpg,UserComment,IMG_23 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+resize,IMG_23.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_23.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_24.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+resize,IMG_24.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+resize,IMG_24.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+resize,IMG_24.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+resize,IMG_24.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+resize,IMG_24.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+resize,IMG_24.jpg,UserComment,IMG_24 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+resize,IMG_24.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_24.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_25.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+resize,IMG_25.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+resize,IMG_25.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+resize,IMG_25.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+resize,IMG_25.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+resize,IMG_25.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+resize,IMG_25.jpg,UserComment,IMG_25 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+resize,IMG_25.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_25.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_26.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+resize,IMG_26.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+resize,IMG_26.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+resize,IMG_26.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+resize,IMG_26.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+resize,IMG_26.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+resize,IMG_26.jpg,UserComment,IMG_26 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+resize,IMG_26.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_26.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_27.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+resize,IMG_27.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+resize,IMG_27.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+resize,IMG_27.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+resize,IMG_27.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+resize,IMG_27.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+resize,IMG_27.jpg,UserComment,IMG_27 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+resize,IMG_27.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_27.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_28.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+resize,IMG_28.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+resize,IMG_28.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+resize,IMG_28.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+resize,IMG_28.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+resize,IMG_28.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+resize,IMG_28.jpg,UserComment,IMG_28 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+resize,IMG_28.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_28.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_29.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+resize,IMG_29.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+resize,IMG_29.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+resize,IMG_29.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+resize,IMG_29.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+resize,IMG_29.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+resize,IMG_29.jpg,UserComment,IMG_29 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+resize,IMG_29.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_29.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_30.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+resize,IMG_30.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+resize,IMG_30.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+resize,IMG_30.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+resize,IMG_30.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+resize,IMG_30.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+resize,IMG_30.jpg,UserComment,IMG_30 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+resize,IMG_30.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+resize,IMG_30.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_01.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+screenshot_like,IMG_01.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+screenshot_like,IMG_01.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+screenshot_like,IMG_01.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+screenshot_like,IMG_01.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_01.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+screenshot_like,IMG_01.jpg,UserComment,IMG_01 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_01.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_01.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_02.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+screenshot_like,IMG_02.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+screenshot_like,IMG_02.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+screenshot_like,IMG_02.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+screenshot_like,IMG_02.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_02.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+screenshot_like,IMG_02.jpg,UserComment,IMG_02 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_02.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_02.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_03.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+screenshot_like,IMG_03.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+screenshot_like,IMG_03.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+screenshot_like,IMG_03.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+screenshot_like,IMG_03.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_03.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+screenshot_like,IMG_03.jpg,UserComment,IMG_03 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_03.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_03.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_04.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+screenshot_like,IMG_04.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+screenshot_like,IMG_04.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+screenshot_like,IMG_04.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+screenshot_like,IMG_04.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_04.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+screenshot_like,IMG_04.jpg,UserComment,IMG_04 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_04.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_04.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_05.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+screenshot_like,IMG_05.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+screenshot_like,IMG_05.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+screenshot_like,IMG_05.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+screenshot_like,IMG_05.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_05.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+screenshot_like,IMG_05.jpg,UserComment,IMG_05 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_05.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_05.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_06.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+screenshot_like,IMG_06.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+screenshot_like,IMG_06.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+screenshot_like,IMG_06.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+screenshot_like,IMG_06.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_06.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+screenshot_like,IMG_06.jpg,UserComment,IMG_06 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_06.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_06.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_07.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+screenshot_like,IMG_07.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+screenshot_like,IMG_07.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+screenshot_like,IMG_07.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+screenshot_like,IMG_07.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_07.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+screenshot_like,IMG_07.jpg,UserComment,IMG_07 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_07.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_07.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_08.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+screenshot_like,IMG_08.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+screenshot_like,IMG_08.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+screenshot_like,IMG_08.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+screenshot_like,IMG_08.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_08.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+screenshot_like,IMG_08.jpg,UserComment,IMG_08 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_08.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_08.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_09.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+screenshot_like,IMG_09.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+screenshot_like,IMG_09.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+screenshot_like,IMG_09.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+screenshot_like,IMG_09.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_09.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+screenshot_like,IMG_09.jpg,UserComment,IMG_09 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_09.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_09.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_10.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+screenshot_like,IMG_10.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+screenshot_like,IMG_10.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+screenshot_like,IMG_10.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+screenshot_like,IMG_10.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_10.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+screenshot_like,IMG_10.jpg,UserComment,IMG_10 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_10.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_10.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_11.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+screenshot_like,IMG_11.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+screenshot_like,IMG_11.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+screenshot_like,IMG_11.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+screenshot_like,IMG_11.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_11.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+screenshot_like,IMG_11.jpg,UserComment,IMG_11 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_11.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_11.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_12.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+screenshot_like,IMG_12.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+screenshot_like,IMG_12.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+screenshot_like,IMG_12.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+screenshot_like,IMG_12.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_12.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+screenshot_like,IMG_12.jpg,UserComment,IMG_12 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_12.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_12.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_13.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+screenshot_like,IMG_13.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+screenshot_like,IMG_13.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+screenshot_like,IMG_13.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+screenshot_like,IMG_13.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_13.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+screenshot_like,IMG_13.jpg,UserComment,IMG_13 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_13.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_13.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_14.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+screenshot_like,IMG_14.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+screenshot_like,IMG_14.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+screenshot_like,IMG_14.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+screenshot_like,IMG_14.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_14.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+screenshot_like,IMG_14.jpg,UserComment,IMG_14 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_14.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_14.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_15.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+screenshot_like,IMG_15.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+screenshot_like,IMG_15.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+screenshot_like,IMG_15.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+screenshot_like,IMG_15.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_15.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+screenshot_like,IMG_15.jpg,UserComment,IMG_15 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_15.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_15.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_16.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+screenshot_like,IMG_16.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+screenshot_like,IMG_16.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+screenshot_like,IMG_16.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+screenshot_like,IMG_16.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_16.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+screenshot_like,IMG_16.jpg,UserComment,IMG_16 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_16.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_16.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_17.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+screenshot_like,IMG_17.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+screenshot_like,IMG_17.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+screenshot_like,IMG_17.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+screenshot_like,IMG_17.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_17.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+screenshot_like,IMG_17.jpg,UserComment,IMG_17 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_17.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_17.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_18.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+screenshot_like,IMG_18.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+screenshot_like,IMG_18.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+screenshot_like,IMG_18.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+screenshot_like,IMG_18.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_18.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+screenshot_like,IMG_18.jpg,UserComment,IMG_18 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_18.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_18.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_19.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+screenshot_like,IMG_19.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+screenshot_like,IMG_19.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+screenshot_like,IMG_19.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+screenshot_like,IMG_19.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_19.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+screenshot_like,IMG_19.jpg,UserComment,IMG_19 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_19.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_19.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_20.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+screenshot_like,IMG_20.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+screenshot_like,IMG_20.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+screenshot_like,IMG_20.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+screenshot_like,IMG_20.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_20.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+screenshot_like,IMG_20.jpg,UserComment,IMG_20 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_20.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_20.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_21.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+screenshot_like,IMG_21.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+screenshot_like,IMG_21.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+screenshot_like,IMG_21.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+screenshot_like,IMG_21.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_21.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+screenshot_like,IMG_21.jpg,UserComment,IMG_21 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_21.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_21.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_22.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+screenshot_like,IMG_22.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+screenshot_like,IMG_22.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+screenshot_like,IMG_22.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+screenshot_like,IMG_22.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_22.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+screenshot_like,IMG_22.jpg,UserComment,IMG_22 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_22.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_22.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_23.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+screenshot_like,IMG_23.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+screenshot_like,IMG_23.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+screenshot_like,IMG_23.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+screenshot_like,IMG_23.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_23.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+screenshot_like,IMG_23.jpg,UserComment,IMG_23 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_23.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_23.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_24.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+screenshot_like,IMG_24.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+screenshot_like,IMG_24.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+screenshot_like,IMG_24.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+screenshot_like,IMG_24.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_24.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+screenshot_like,IMG_24.jpg,UserComment,IMG_24 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_24.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_24.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_25.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+screenshot_like,IMG_25.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+screenshot_like,IMG_25.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+screenshot_like,IMG_25.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+screenshot_like,IMG_25.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_25.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+screenshot_like,IMG_25.jpg,UserComment,IMG_25 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_25.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_25.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_26.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+screenshot_like,IMG_26.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+screenshot_like,IMG_26.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+screenshot_like,IMG_26.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+screenshot_like,IMG_26.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_26.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+screenshot_like,IMG_26.jpg,UserComment,IMG_26 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_26.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_26.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_27.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+screenshot_like,IMG_27.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+screenshot_like,IMG_27.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+screenshot_like,IMG_27.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+screenshot_like,IMG_27.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_27.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+screenshot_like,IMG_27.jpg,UserComment,IMG_27 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_27.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_27.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_28.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+screenshot_like,IMG_28.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+screenshot_like,IMG_28.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+screenshot_like,IMG_28.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+screenshot_like,IMG_28.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_28.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+screenshot_like,IMG_28.jpg,UserComment,IMG_28 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_28.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_28.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_29.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+screenshot_like,IMG_29.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+screenshot_like,IMG_29.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+screenshot_like,IMG_29.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+screenshot_like,IMG_29.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_29.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+screenshot_like,IMG_29.jpg,UserComment,IMG_29 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_29.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_29.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_30.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+screenshot_like,IMG_30.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+screenshot_like,IMG_30.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+screenshot_like,IMG_30.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+screenshot_like,IMG_30.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_30.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+screenshot_like,IMG_30.jpg,UserComment,IMG_30 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+screenshot_like,IMG_30.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+screenshot_like,IMG_30.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_01.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+stripped,IMG_01.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+stripped,IMG_01.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+stripped,IMG_01.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+stripped,IMG_01.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+stripped,IMG_01.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+stripped,IMG_01.jpg,UserComment,IMG_01 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+stripped,IMG_01.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_01.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_02.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+stripped,IMG_02.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+stripped,IMG_02.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+stripped,IMG_02.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+stripped,IMG_02.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+stripped,IMG_02.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+stripped,IMG_02.jpg,UserComment,IMG_02 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+stripped,IMG_02.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_02.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_03.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+stripped,IMG_03.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+stripped,IMG_03.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+stripped,IMG_03.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+stripped,IMG_03.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+stripped,IMG_03.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+stripped,IMG_03.jpg,UserComment,IMG_03 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+stripped,IMG_03.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_03.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_04.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+stripped,IMG_04.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+stripped,IMG_04.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+stripped,IMG_04.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+stripped,IMG_04.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+stripped,IMG_04.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+stripped,IMG_04.jpg,UserComment,IMG_04 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+stripped,IMG_04.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_04.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_05.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+stripped,IMG_05.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+stripped,IMG_05.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+stripped,IMG_05.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+stripped,IMG_05.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+stripped,IMG_05.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+stripped,IMG_05.jpg,UserComment,IMG_05 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+stripped,IMG_05.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_05.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_06.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+stripped,IMG_06.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+stripped,IMG_06.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+stripped,IMG_06.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+stripped,IMG_06.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+stripped,IMG_06.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+stripped,IMG_06.jpg,UserComment,IMG_06 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+stripped,IMG_06.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_06.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_07.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+stripped,IMG_07.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+stripped,IMG_07.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+stripped,IMG_07.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+stripped,IMG_07.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+stripped,IMG_07.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+stripped,IMG_07.jpg,UserComment,IMG_07 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+stripped,IMG_07.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_07.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_08.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+stripped,IMG_08.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+stripped,IMG_08.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+stripped,IMG_08.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+stripped,IMG_08.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+stripped,IMG_08.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+stripped,IMG_08.jpg,UserComment,IMG_08 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+stripped,IMG_08.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_08.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_09.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+stripped,IMG_09.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+stripped,IMG_09.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+stripped,IMG_09.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+stripped,IMG_09.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+stripped,IMG_09.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+stripped,IMG_09.jpg,UserComment,IMG_09 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+stripped,IMG_09.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_09.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_10.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+stripped,IMG_10.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+stripped,IMG_10.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+stripped,IMG_10.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+stripped,IMG_10.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+stripped,IMG_10.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+stripped,IMG_10.jpg,UserComment,IMG_10 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+stripped,IMG_10.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_10.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_11.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+stripped,IMG_11.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+stripped,IMG_11.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+stripped,IMG_11.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+stripped,IMG_11.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+stripped,IMG_11.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+stripped,IMG_11.jpg,UserComment,IMG_11 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+stripped,IMG_11.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_11.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_12.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+stripped,IMG_12.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+stripped,IMG_12.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+stripped,IMG_12.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+stripped,IMG_12.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+stripped,IMG_12.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+stripped,IMG_12.jpg,UserComment,IMG_12 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+stripped,IMG_12.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_12.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_13.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+stripped,IMG_13.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+stripped,IMG_13.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+stripped,IMG_13.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+stripped,IMG_13.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+stripped,IMG_13.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+stripped,IMG_13.jpg,UserComment,IMG_13 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+stripped,IMG_13.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_13.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_14.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+stripped,IMG_14.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+stripped,IMG_14.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+stripped,IMG_14.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+stripped,IMG_14.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+stripped,IMG_14.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+stripped,IMG_14.jpg,UserComment,IMG_14 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+stripped,IMG_14.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_14.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_15.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+stripped,IMG_15.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+stripped,IMG_15.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+stripped,IMG_15.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+stripped,IMG_15.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+stripped,IMG_15.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+stripped,IMG_15.jpg,UserComment,IMG_15 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+stripped,IMG_15.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_15.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_16.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+stripped,IMG_16.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+stripped,IMG_16.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+stripped,IMG_16.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+stripped,IMG_16.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+stripped,IMG_16.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+stripped,IMG_16.jpg,UserComment,IMG_16 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+stripped,IMG_16.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_16.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_17.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+stripped,IMG_17.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+stripped,IMG_17.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+stripped,IMG_17.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+stripped,IMG_17.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+stripped,IMG_17.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+stripped,IMG_17.jpg,UserComment,IMG_17 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+stripped,IMG_17.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_17.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_18.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+stripped,IMG_18.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+stripped,IMG_18.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+stripped,IMG_18.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+stripped,IMG_18.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+stripped,IMG_18.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+stripped,IMG_18.jpg,UserComment,IMG_18 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+stripped,IMG_18.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_18.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_19.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+stripped,IMG_19.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+stripped,IMG_19.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+stripped,IMG_19.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+stripped,IMG_19.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+stripped,IMG_19.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+stripped,IMG_19.jpg,UserComment,IMG_19 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+stripped,IMG_19.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_19.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_20.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+stripped,IMG_20.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+stripped,IMG_20.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+stripped,IMG_20.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+stripped,IMG_20.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+stripped,IMG_20.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+stripped,IMG_20.jpg,UserComment,IMG_20 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+stripped,IMG_20.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_20.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_21.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+stripped,IMG_21.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+stripped,IMG_21.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+stripped,IMG_21.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+stripped,IMG_21.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+stripped,IMG_21.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+stripped,IMG_21.jpg,UserComment,IMG_21 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+stripped,IMG_21.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_21.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_22.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+stripped,IMG_22.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+stripped,IMG_22.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+stripped,IMG_22.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+stripped,IMG_22.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+stripped,IMG_22.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+stripped,IMG_22.jpg,UserComment,IMG_22 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+stripped,IMG_22.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_22.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_23.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+stripped,IMG_23.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+stripped,IMG_23.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+stripped,IMG_23.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+stripped,IMG_23.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+stripped,IMG_23.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+stripped,IMG_23.jpg,UserComment,IMG_23 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+stripped,IMG_23.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_23.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_24.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+stripped,IMG_24.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+stripped,IMG_24.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+stripped,IMG_24.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+stripped,IMG_24.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+stripped,IMG_24.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+stripped,IMG_24.jpg,UserComment,IMG_24 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+stripped,IMG_24.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_24.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_25.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+stripped,IMG_25.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+stripped,IMG_25.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+stripped,IMG_25.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+stripped,IMG_25.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+stripped,IMG_25.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+stripped,IMG_25.jpg,UserComment,IMG_25 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+stripped,IMG_25.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_25.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_26.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+stripped,IMG_26.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+stripped,IMG_26.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+stripped,IMG_26.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+stripped,IMG_26.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+stripped,IMG_26.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+stripped,IMG_26.jpg,UserComment,IMG_26 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+stripped,IMG_26.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_26.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_27.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+stripped,IMG_27.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+stripped,IMG_27.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+stripped,IMG_27.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+stripped,IMG_27.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+stripped,IMG_27.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+stripped,IMG_27.jpg,UserComment,IMG_27 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+stripped,IMG_27.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_27.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_28.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+stripped,IMG_28.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+stripped,IMG_28.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+stripped,IMG_28.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+stripped,IMG_28.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+stripped,IMG_28.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+stripped,IMG_28.jpg,UserComment,IMG_28 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+stripped,IMG_28.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_28.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_29.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+stripped,IMG_29.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+stripped,IMG_29.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+stripped,IMG_29.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+stripped,IMG_29.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+stripped,IMG_29.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+stripped,IMG_29.jpg,UserComment,IMG_29 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+stripped,IMG_29.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_29.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_30.jpg,DateTimeOriginal,2026:01:15 10:20:30,,missing,ExifTool_13.59
+stripped,IMG_30.jpg,Make,DF06-LAB,,missing,ExifTool_13.59
+stripped,IMG_30.jpg,Model,SyntheticCam-1,,missing,ExifTool_13.59
+stripped,IMG_30.jpg,Software,DF06-Generator v1.0,,missing,ExifTool_13.59
+stripped,IMG_30.jpg,Artist,Kelompok6-DF06,,missing,ExifTool_13.59
+stripped,IMG_30.jpg,Copyright,Educational Synthetic Dataset DF06 2026,,missing,ExifTool_13.59
+stripped,IMG_30.jpg,UserComment,IMG_30 controlled EXIF metadata DF06,,missing,ExifTool_13.59
+stripped,IMG_30.jpg,GPSLatitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
+stripped,IMG_30.jpg,GPSLongitude,"0 deg 0' 0.00""",,missing,ExifTool_13.59
